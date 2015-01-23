@@ -51,7 +51,7 @@
 						<li><a href="http://stlukemi.org/%7Estlukemi/worship-overview.php">OVERVIEW</a></li>
 						<li><a href="http://stlukemi.org/%7Estlukemi/bible-study.php">CHRISTIAN
 								EDUCATION</a></li>
-						<li><a href="http://stlukemi.org/%7Estlukemi/sermons.php">SERMON
+						<li><a href="/sermons">SERMON
 								ARCHIVE</a></li>
 					</ul></li>
 				<li><a href="http://stlukemi.org/%7Estlukemi/news-and-notes.php"

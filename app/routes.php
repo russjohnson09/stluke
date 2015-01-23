@@ -15,3 +15,11 @@ Route::get('/', function()
 {
 	return View::make('index');
 });
+
+Route::get('/sermons','SermonsController@index');
+
+
+Route::get('/{viewName}', function($viewName)
+{
+	return View::make($viewName);
+});
